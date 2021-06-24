@@ -9,4 +9,4 @@ Best practices, discussion and ideas around the COMPAS framework.
 * **Session 02: compas.geometry**
   * Primitives, Shapes, Transformations, Point clouds, Pluggables, COMPAS <=> CAD, NURBS & BREP
   * [👉 Go to slides](02_geometry/compas.geometry.pdf)
-  * [🎬 Recording available soon](..)
+  * [🎬 Go to recording](https://youtu.be/Hn9ye1bRbS0)
