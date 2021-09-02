@@ -10,3 +10,8 @@ Best practices, discussion and ideas around the COMPAS framework.
   * Primitives, Shapes, Transformations, Point clouds, Pluggables, COMPAS <=> CAD, NURBS & BREP
   * [👉 Go to slides](02_geometry/compas.geometry.pdf)
   * [🎬 Go to recording](https://youtu.be/Hn9ye1bRbS0)
+* **Session 03: compas.datastructures**
+  * Network, Mesh, VolMesh
+  * [👉 Go to slides](03_datastructures/compas.datastructures.pdf)
+  * [🎬 Go to recording](https://youtu.be/dMBP2V_nD5Y)
+  
